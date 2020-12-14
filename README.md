@@ -1,0 +1,2 @@
+# conflicts
+git merge conflicts
